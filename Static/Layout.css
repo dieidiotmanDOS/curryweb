@@ -1,0 +1,50 @@
+html {background:black;}
+
+h1 {
+font-size: 40px;
+padding: 10px;
+background: black;
+border-style: solid ;
+margin: -10px;
+position:relative;
+top: 1px;
+color: white;
+}
+
+.x {
+padding: 10px;
+color: white;
+background: #010101 ;
+margin: -10px;
+border-style: dashed solid solid solid;
+position:relative;
+top: 3px;
+}
+
+.box1 {
+color: white;
+background: #800000 ;
+position:relative;
+top: 103px;
+left: 25px;
+width: 420px;
+border-style: solid;
+font-size: 21px;
+}
+
+.box2 {
+color: white;
+background: #153E25 ;
+position:relative;
+top: 113px;
+left: 1000px;
+width: 420px;
+border-style: solid;
+font-size: 21px;
+}
+
+a {
+    font-size: 21px;
+    text-color = white;
+    border: 2px solid white;
+}
